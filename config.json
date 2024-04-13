@@ -1,0 +1,5 @@
+{
+    "openai_api_key": "your_api_key_here",
+    "dalle_base_url": "https://api.openai.com/v1/images/generations",
+    "dalle_model": "dalle-mini"  // 这里可以是"dalle-mini", "dalle-mega"等模型名称
+}
